@@ -1,66 +1,61 @@
-# Miside Game Platform
+# MISIDE Game Guide
 
-A Next.js-based web platform for browsing and playing online music creation games.
+A horror-adventure visual novel featuring an AI girlfriend, binary puzzles, and multiple endings.
 
 ## Features
+- Psychological horror narrative
+- Binary puzzle system
+- Racing segments 
+- Multiple story paths & endings
+- Immersive sound design
+- Character customization
+- Mobile app interface mechanics
 
-- Multi-language support (EN, ZH, JA, KO, DE, FR, IT, ES, RU)
-- Game discovery with search and filtering
-- Rating and comment system
-- Responsive design for all devices
-- SEO optimization
-- Analytics integration
-- User activity tracking
+## Controls
+- Movement: WASD/Arrow keys
+- Look: Mouse 
+- Interact: E/Left click
+- Sprint: Shift
+- Inventory: Tab
+- Phone: M
 
-## Core Games
+## Installation
+1. Download game from official site
+2. Extract files
+3. Run `miside.exe`
 
-- Miside 2: Interactive music creation game with focus on:
-  - Visual music composition
-  - Beat mixing
-  - Sound effects
-  - Shareability
+## Custom Skins
+1. Download skin pack
+2. Extract to `game/skins` folder
+3. Select skin in-game settings
 
-## Technical Stack
+## Languages
+- English
+- 日本語
+- 한국어
+- Deutsch
+- Français  
+- Italiano 
+- Español
+- 中文
+- Русский
+- 繁體中文
 
-- Framework: Next.js 13+ with App Router
-- Styling: CSS Modules + Tailwind CSS  
-- State Management: React Hooks
-- Data Storage: Cloudflare R2
-- Analytics: Google Analytics
-- CDN: Cloudflare
+## Content Warning
+Contains psychological horror elements. Player discretion advised.
 
-## Getting Started
+## Community
+- [Discord Server](https://discord.gg/miside)
+- [Steam Community](https://steamcommunity.com/app/miside)
+- [Mod Workshop](https://misidegame.com/mods)
 
-```bash
-# Install dependencies
-npm install
+## Support
+- [Bug Reports](https://github.com/miside/issues)
+- [Support on Ko-fi](https://ko-fi.com/jeyzolo)
 
-# Run development server
-npm run dev
-
-# Build for production 
-npm run build
-
-# Start production server
-npm start
-```
-
-## Project Structure
-
-```
-src/
-  ├── app/           # Next.js app directory 
-  ├── components/    # Reusable components
-  ├── hooks/         # Custom React hooks
-  ├── lib/          # Utilities and configurations  
-  ├── locales/      # Translation files
-  └── styles/       # Global styles
-```
-
-## Contributing
-
-Pull requests welcome. For major changes, please open an issue first.
+## Related Projects
+- [AI Girlfriend](https://www.yourgirlfriend.app/)
+- [AI Story Generator](https://c2story.com/)
 
 ## License
-
-[MIT](LICENSE)
+[MIT License](LICENSE)
