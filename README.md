@@ -1,51 +1,51 @@
 # MiSide Fan Site & Community Hub
 
-An unofficial fan site and community platform for MiSide, the psychological horror game developed by Aihasto.
+A fan site and community platform for MiSide, the psychological horror game by Aihasto.
 
-## About MiSide
-A psychological horror adventure game blending first-person exploration with visual novel elements. Players find themselves trapped in a mobile simulation game that takes an unsettling turn.
+## Play Online
+[Play MiSide](https://www.miside-online.org)
+
+## Game Guide
+[MiSide Guidance](https://www.miside-online.org/en/miside-guidance)
 
 ## Features
-
-### Game Features
-- Rich storytelling with multiple endings
-- Adventure horror gameplay with puzzle elements
-- Anime-inspired visuals with 3D graphics
-- Immersive sound design with Russian voice acting
-- 26 achievements to unlock
-
-### Site Features
-- Online game demo playable in browser
-- Game guides and walkthroughs
-- Character guides and lore
-- Community mods and custom skins
-- Achievement tracking
-- Community discussions
+- Adventure horror gameplay
+- Multiple story endings
+- Binary puzzle system
+- Racing segments
+- Voice acted (Russian)
+- Character customization
+- Achievement system
 
 ## Downloads
-- [Steam Store Page](https://store.steampowered.com/app/miside)
-- [Itch.io Demo](https://aihasto.itch.io/miside)
-- [Custom Skins & Mods](https://miside.im/mods)
+- [Steam](https://store.steampowered.com/app/miside)
+- [Custom Skins](https://github.com/miside-online/miside-mode)
+  - Featured: [Koishita-chan Skin](https://github.com/miside-online/miside-mode/blob/main/Koishita-chan-33-1-9-6-1735391319.zip)
 
 ## Guides
-- [Main Story Walkthrough](https://miside.im/guides/walkthrough)
-- [Achievement Guide](https://miside.im/guides/achievements)  
-- [Character Guide](https://miside.im/guides/characters)
-- [All Endings Guide](https://miside.im/guides/endings)
+- Story Walkthrough
+- Achievement Guide
+- Character Guide
+- All Endings Guide
+- Mod Installation Guide
+
+## Languages
+- English
+- 日本語
+- 한국어
+- Deutsch
+- Français
+- Italiano
+- Español
+- 中文
+- Русский
+- 繁體中文
 
 ## Community
-- [Discord Server](https://discord.gg/miside)
-- [Steam Community Hub](https://steamcommunity.com/app/miside)
-- [Mod Workshop](https://miside.im/mods)
+- [Discord](https://discord.gg/miside)
+- [Steam Community](https://steamcommunity.com/app/miside)
 
-## Technical Stack
-- Frontend: Nunjucks, HTML, JavaScript, CSS
-- Hosting: GitHub Pages
+## Support
+[Ko-fi Support](https://ko-fi.com/jeyzolo)
 
-## Contributing
-Pull requests welcome. For major changes, please open an issue first.
-
-## License
-[MIT](LICENSE)
-
-*This is a fan-made site and is not affiliated with Aihasto.*
+*This is a fan-made site not affiliated with Aihasto.*
