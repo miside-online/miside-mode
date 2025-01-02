@@ -1,61 +1,51 @@
-# MISIDE Game Guide
+# MiSide Fan Site & Community Hub
 
-A horror-adventure visual novel featuring an AI girlfriend, binary puzzles, and multiple endings.
+An unofficial fan site and community platform for MiSide, the psychological horror game developed by Aihasto.
+
+## About MiSide
+A psychological horror adventure game blending first-person exploration with visual novel elements. Players find themselves trapped in a mobile simulation game that takes an unsettling turn.
 
 ## Features
-- Psychological horror narrative
-- Binary puzzle system
-- Racing segments 
-- Multiple story paths & endings
-- Immersive sound design
-- Character customization
-- Mobile app interface mechanics
 
-## Controls
-- Movement: WASD/Arrow keys
-- Look: Mouse 
-- Interact: E/Left click
-- Sprint: Shift
-- Inventory: Tab
-- Phone: M
+### Game Features
+- Rich storytelling with multiple endings
+- Adventure horror gameplay with puzzle elements
+- Anime-inspired visuals with 3D graphics
+- Immersive sound design with Russian voice acting
+- 26 achievements to unlock
 
-## Installation
-1. Download game from official site
-2. Extract files
-3. Run `miside.exe`
+### Site Features
+- Online game demo playable in browser
+- Game guides and walkthroughs
+- Character guides and lore
+- Community mods and custom skins
+- Achievement tracking
+- Community discussions
 
-## Custom Skins
-1. Download skin pack
-2. Extract to `game/skins` folder
-3. Select skin in-game settings
+## Downloads
+- [Steam Store Page](https://store.steampowered.com/app/miside)
+- [Itch.io Demo](https://aihasto.itch.io/miside)
+- [Custom Skins & Mods](https://miside.im/mods)
 
-## Languages
-- English
-- 日本語
-- 한국어
-- Deutsch
-- Français  
-- Italiano 
-- Español
-- 中文
-- Русский
-- 繁體中文
-
-## Content Warning
-Contains psychological horror elements. Player discretion advised.
+## Guides
+- [Main Story Walkthrough](https://miside.im/guides/walkthrough)
+- [Achievement Guide](https://miside.im/guides/achievements)  
+- [Character Guide](https://miside.im/guides/characters)
+- [All Endings Guide](https://miside.im/guides/endings)
 
 ## Community
 - [Discord Server](https://discord.gg/miside)
-- [Steam Community](https://steamcommunity.com/app/miside)
-- [Mod Workshop](https://misidegame.com/mods)
+- [Steam Community Hub](https://steamcommunity.com/app/miside)
+- [Mod Workshop](https://miside.im/mods)
 
-## Support
-- [Bug Reports](https://github.com/miside/issues)
-- [Support on Ko-fi](https://ko-fi.com/jeyzolo)
+## Technical Stack
+- Frontend: Nunjucks, HTML, JavaScript, CSS
+- Hosting: GitHub Pages
 
-## Related Projects
-- [AI Girlfriend](https://www.yourgirlfriend.app/)
-- [AI Story Generator](https://c2story.com/)
+## Contributing
+Pull requests welcome. For major changes, please open an issue first.
 
 ## License
-[MIT License](LICENSE)
+[MIT](LICENSE)
+
+*This is a fan-made site and is not affiliated with Aihasto.*
